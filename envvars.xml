@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sinequa>
+	<Enabled>true</Enabled>
+	<EnvVars>
+		<e>
+			<Name>test1</Name>
+			<Value>test1_val</Value>
+		</e>
+		<e>
+			<Name>test2</Name>
+			<Value>test2_val</Value>
+		</e>
+		<e>
+			<Name>test3</Name>
+			<Value>test3_val</Value>
+		</e>
+		<e>
+			<Name>test4</Name>
+			<Value>test4_val</Value>
+		</e>
+	</EnvVars>
+</Sinequa>
